@@ -14,11 +14,3 @@
 3. Jenkins triggers Ansible
 4. Ansible copies WAR & restarts Tomcat
 5. Java app deployed
-
-## Screenshots
-- Add Jenkins stages
-- Ansible success
-- App running
-
-## Interview Prep
-- Common Q&A added below
